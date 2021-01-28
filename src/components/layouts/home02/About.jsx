@@ -18,7 +18,7 @@ class About extends Component {
                                     <NumberCount />
                                     <div className="btn-contact bg-s1 text-center">
                                         <h4 className="title color-d12">Get a project? Let’s talk.</h4>
-                                        <Link to="#" className="email color-s1 color-d14">yourmail@email.com</Link>
+                                        <Link to="#" className="email color-s1 color-d14">hassan.umaid@gmail.com</Link>
                                     </div>
                                 </div>
                             </div>
